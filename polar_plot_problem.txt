@@ -1,0 +1,8 @@
+Plot a spiral function r=a+bθ in plane polar coordinate. Your θ should be in range [0,10π]. Take a and b as inputs. Your output should contain the link of the generated plot. 
+
+Example: 
+Input:
+1
+-0.05
+
+Note: See the effect of sign of your parameter b. 

@@ -1,0 +1,29 @@
+Consider the first excited state wavefunction of harmonic oscillator 
+
+Ψ1(x)=Axe−x22
+
+
+where A is a normalization constant. Write a python program to find the value of A using the following relation: 
+
+∫∞−∞|Ψ1(x)|2dx=1
+ 
+
+Note: 1) Use the Hermite-Gauss quadrature. 
+          2) You need not to take any input for this problem. Evaluate your program directly after you finished writing. 
+          3) Usage of the build-in function for integration is strictly prohibited. 
+
+          4) For the five-point rule, the weight factors and nodes/roots are given below, 
+
+  
+  
+ 
+         
+       
+       
+       
+Weight factor (w) 	Nodes/Roots     (x) 
+0.945309	0.0
+0.393619	0.958572
+0.393619	-0.958572
+0.0199532	2.02018
+0.0199532	-2.02018

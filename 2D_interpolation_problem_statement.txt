@@ -1,0 +1,9 @@
+Consider the magnitude of a two-dimensional fluid velocity field is u(x,y)=5sin2(2x)+5cos2(2y)−−−−−−−−−−−−−−−−−−√ on x−y plane in the interval 0≤x≤π and 0≤y≤π. Divide these intervals in ten equally spaced points in each direction. Write a python program to estimate the magnitude of the velocity field, u(x,y) at some (x0,y0) using Lagrange interpolation. Take (x0,y0) as your input and print u(x0,y0). Your input must consists two lines. Round up your result up to 2 decimal places.
+
+Example:
+Input:
+2.1
+2.5
+
+Output:
+2.04

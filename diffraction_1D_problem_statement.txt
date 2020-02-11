@@ -1,0 +1,3 @@
+Plot the diffraction pattern intensity ∣∣∣sin(x)x∣∣∣2 in one dimension as a function of x. Your plotting domain should be chosen in such a way that one can observe 7 peaks in total. Peaks should be symmetric about zero. Your output should contain the link of the generated plot.
+
+Note: Put proper limits and labels to the axes.

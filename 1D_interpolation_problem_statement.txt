@@ -1,0 +1,15 @@
+Refer to the pressure-volume data in the below table. Use a four-point Lagrange interpolation to estimate the volume, V at any given input pressure. 
+
+[T=298K, Rg=0.0821 L-atm/gmol-K].
+
+PVRgT=1+AV+BV2
+
+ P(atm)	 V(Liters)
+ 0.969	 25.0
+ 1.090	 22.2
+ 1.341	 18.0
+ 1.606 	 15.0
+
+
+
+[Round up your results up to 2 decimal places.]

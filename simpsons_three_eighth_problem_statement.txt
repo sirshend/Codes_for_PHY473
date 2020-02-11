@@ -1,0 +1,22 @@
+Write a python program to estimate the following integral using Simpson’s 3/8-rule.
+
+∫baexln(x)dx
+ 
+
+Divide the integration interval into N segments of equal width, where N is multiple of  3. The values of a, b, and N will be specified as input.  
+
+The input will consist of three lines, with the first and second lines specifying a and b respectively. The third line will contain the value for N.
+
+Round off your answer up to 2 decimal places.
+
+Note: 1) Usage of the build-in function for integration is strictly prohibited. 
+
+
+Example:
+INPUT:
+2.0
+3.0
+99
+
+OUTPUT:
+13.68

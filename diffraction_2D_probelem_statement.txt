@@ -1,0 +1,1 @@
+Using a density colour plot, plot the two dimensional diffraction pattern described by the function sin(x)sin(y)xy in xy plane. Your domain should be −10≤x≤10 and −10≤y≤10. Your output should contain the link of the generated plot. Put proper labels on both the axes and colorbar.
